@@ -7,7 +7,7 @@ export default function Logo() {
   return (
     <Link to="/">
       <Typography component="div" variant="h5">
-        Dindim
+        FUCK!
       </Typography>
     </Link>
   )

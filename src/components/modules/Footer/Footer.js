@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <FooterStyled>
       <Container>
-        <Typography variant="body2">{`Copyright © Dindim ${new Date().getFullYear()}`}</Typography>
+        <Typography variant="body2">{`Copyright © FUCK! ${new Date().getFullYear()}`}</Typography>
       </Container>
     </FooterStyled>
   )

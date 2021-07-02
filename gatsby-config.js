@@ -9,7 +9,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: 'Dindim',
+    title: 'FUCK!',
     description: 'Stripe storefront starter for Gatsby',
     author: 'Lorenzo García Moreno <dev@lorenzogm.com>',
   },
